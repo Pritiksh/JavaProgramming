@@ -53,7 +53,7 @@ public class FindDuplicateElementsInArray {
 			}
 		}
 		System.out.println("*******Streams*******");
-		
+		System.out.println("-----");
 	}
 
 }
